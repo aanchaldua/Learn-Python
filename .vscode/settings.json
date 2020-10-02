@@ -17,4 +17,11 @@
     "python": "python",
   },
   "workbench.panel.defaultLocation": "right",
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    ".",
+    "-p",
+    "*test.py"
+  ],
 }
